@@ -10,22 +10,22 @@ _{This is a detailed description of your application. Its purpose and usage.  Gi
 
 ## Setup/Installation Requirements
 
-*_Download or clone repository and double click index.html file to open in your web browser_
+* _Download or clone repository and double click index.html file to open in your web browser_
 
 ## Known Bugs
 
-*_No known bugs as of 2-10-17_
+* _No known bugs as of 2-10-17_
 
 ## Support and contact details
 
-*_To Support or Contact e-mail: evan.bishop888@gmail.com_
+* _To Support or Contact e-mail: evan.bishop888@gmail.com_
 
 ## Technologies Used
 
-*_Bootstrap is the main technology used. Created rows within rows._
+* _Bootstrap is the main technology used. Created rows within rows._
 
 ### License
 
-*_This software is licensed under the MIT license_*
+* _This software is licensed under the MIT license_*
 
 Copyright (c) 2017 **_Evan Bishop_**
