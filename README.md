@@ -10,7 +10,7 @@ _{This is a detailed description of your application. Its purpose and usage.  Gi
 
 ## Setup/Installation Requirements
 
-* _Visit this link: 
+* _Visit this link: https://eb888.github.io/portfolio/_
 
 ## Known Bugs
 
