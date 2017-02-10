@@ -10,7 +10,7 @@ _{This is a detailed description of your application. Its purpose and usage.  Gi
 
 ## Setup/Installation Requirements
 
-* _Download or clone repository and double click index.html file to open in your web browser_
+* _Visit this link: 
 
 ## Known Bugs
 
