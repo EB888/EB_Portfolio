@@ -9,10 +9,35 @@ body{
   text-align:center;
 }
 
-.well{
+.wellgrey{
+  background-color: #D3D3D3;
+}
 
+.well{
+  border-radius: 20px;
+}
+
+.panel, .panel-body, .panel-heading{
+  border-radius: 20px;
+}
+
+.panel{
+  border-radius:20px;
+}
+
+.greybackground{
+  background-color:#D3D3D3;
 }
 
 .blackborder{
-  border: solid 1px black;
+  border: solid 5px black;
+}
+
+.ul-left{
+  text-align:left;
+}
+
+.ebmargins{
+  margin-bottom:20px;
+  margin-top:20px;
 }
