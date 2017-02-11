@@ -3,10 +3,6 @@ body{
   background-size: cover;
   font-family: Fantasy;
 }
-.wellbg{
-  background-image:url("http://2.bp.blogspot.com/_FJ3yaaJMYdw/TL9NTvkat8I/AAAAAAAAEi8/eMDVnwMnA1A/s1600/IMG_1107.JPG");
-  background-size: cover;
-}
 
 .textcenter{
   text-align:center;
@@ -48,6 +44,10 @@ a:hover{
 .bg-4{
   background-color:#2f2f2f;
   color:#7FFF00;
+}
+
+.floatleft{
+  float:left;
 }
 
 .spanstuff{
