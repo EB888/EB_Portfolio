@@ -22,7 +22,7 @@ _{This is a detailed description of your application. Its purpose and usage.  Gi
 
 ## Support and contact details
 
-* _To Support or Contact e-mail: evan.bishop888@gmail.com_
+* _To Support or Contact e-mail:
 
 ## Technologies Used
 
